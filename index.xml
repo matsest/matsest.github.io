@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mats Estensen</title>
-    <link>https://matsest.github.io/</link>
+    <link>https://www.mxe.no/</link>
     <description>Recent content on Mats Estensen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jul 2018 18:10:50 +0100</lastBuildDate>
     
-	<atom:link href="https://matsest.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.mxe.no/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://matsest.github.io/about/</link>
+      <link>https://www.mxe.no/about/</link>
       <pubDate>Sun, 22 Jul 2018 18:10:50 +0100</pubDate>
       
-      <guid>https://matsest.github.io/about/</guid>
+      <guid>https://www.mxe.no/about/</guid>
       <description>Mats Estensen   To be updated..</description>
     </item>
     
