@@ -1,5 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mats Estensen · Personal Website · mxe.no</title><link>https://www.mxe.no/</link><description>Recent content on Mats Estensen · Personal Website · mxe.no</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Nov 2018 13:13:00 +0100</lastBuildDate><atom:link href="https://www.mxe.no/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello, World!</title><link>https://www.mxe.no/posts/hello-world/</link><pubDate>Wed, 21 Nov 2018 13:13:00 +0100</pubDate><guid>https://www.mxe.no/posts/hello-world/</guid><description>program helloworld print *, &amp;#34;Hello, World!&amp;#34; end program helloworld The snippet above is a simple implementation of a &amp;ldquo;Hello, World!&amp;rdquo;-program in Fortran. You can try to build and execute it online here! While Fortran may not be the most obvious language to use in 2018 it&amp;rsquo;s what I am currently working with in a project on numerical physics (where the language still proves superior).
-As this is the first post on this site in its current format, I&amp;rsquo;ll give a brief introduction to it.</description></item><item><title>About Me</title><link>https://www.mxe.no/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mxe.no/about/</guid><description>Mats Estensen
-Hi! Welcome to my personal digital corner of the Internet!
-I am an IT Infrastructure Engineer and Consultant working in Oslo, Norway. Currently, I am on 4-month educational leave while I am pursuing a master&amp;rsquo;s thesis within physics and nanoelectronics.
-While I am not busy working I enjoy going to concerts and listen to music, jumping out of perfectly good planes, and enjoying life &amp;ndash; all while looking out for new things to learn.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mats Estensen · Personal Website · mxe.no</title><link>https://www.mxe.no/</link><description>Recent content on Mats Estensen · Personal Website · mxe.no</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>CC BY-NC-SA 4.0</copyright><lastBuildDate>Wed, 21 Nov 2018 13:13:00</lastBuildDate><atom:link href="https://www.mxe.no/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello, World!</title><link>https://www.mxe.no/posts/hello-world/</link><pubDate>Wed, 21 Nov 2018 13:13:00</pubDate><guid>https://www.mxe.no/posts/hello-world/</guid><description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-fortran&#34; data-lang=&#34;fortran&#34;&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;program &lt;/span&gt;helloworld
+&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;print&lt;/span&gt; *, &lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;
+&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;end program &lt;/span&gt;helloworld&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The snippet above is a simple implementation of a &lt;a href=&#34;https://en.wikipedia.org/wiki/Hello_world_program&#34;&gt;&amp;ldquo;Hello, World!&amp;rdquo;&lt;/a&gt;-program in &lt;a href=&#34;https://en.wikipedia.org/wiki/Fortran&#34;&gt;Fortran&lt;/a&gt;. You can try to build and execute it online &lt;a href=&#34;http://tpcg.io/1qoGse&#34;&gt;here&lt;/a&gt;! While Fortran may not be the most obvious language to use in 2018 it&amp;rsquo;s what I am currently working with in a project on numerical physics (where the language still proves &lt;a href=&#34;https://stackoverflow.com/questions/8997039/why-is-fortran-used-for-scientific-computing/8997299#8997299&#34;&gt;superior&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;As this is the first post on this site in its current format, I&amp;rsquo;ll give a brief introduction to it. If you do not already know who I am, you can read a brief bio in my &lt;a href=&#34;about&#34;&gt;about&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;Despite always having some form of personal website, I&amp;rsquo;ve rarely posted much else than links to my social media profiles (see &lt;a href=&#34;https://www.mxe.no/&#34;&gt;main&lt;/a&gt; page for links) and hosted static content. And to be honest, I will most likely not regularly post to this site. For social content and short ramblings I mostly use &lt;a href=&#34;https://twitter.com/matsest&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This site will serve as a small digital cross road for my online persona, and contain some random posts from time to time regarding topics that interest me on both a personal and professional level. For the time being, these topics include technology, programming, information security, science and other stuff.&lt;/p&gt;
+&lt;p&gt;As stated in the footer, this site is built with the static site generator &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and uses a forked &lt;a href=&#34;https://github.com/matsest/hugo-coder/&#34;&gt;Coder theme&lt;/a&gt;. It is hosted on &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;, which is configured towards my custom domain.&lt;/p&gt;
+&lt;p&gt;Until next time (it &lt;em&gt;might&lt;/em&gt; be a while),&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Mats&lt;/p&gt;</description></item><item><title>About Me</title><link>https://www.mxe.no/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00</pubDate><guid>https://www.mxe.no/about/</guid><description>
+&lt;figure class=&#34;float-right&#34;&gt;
+&lt;img src=&#34;https://www.mxe.no/images/me.jpg&#34;
+alt=&#34;Mats Estensen&#34; width=&#34;200px&#34;/&gt; &lt;figcaption&gt;
+&lt;p&gt;Mats Estensen&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Hi! Welcome to my personal digital corner of the Internet!&lt;/p&gt;
+&lt;p&gt;I am an IT Infrastructure Engineer and Consultant working in &lt;a href=&#34;https://osm.org/go/0TuH7cC--&#34;&gt;Oslo, Norway&lt;/a&gt;. Currently, I am on 4-month educational leave while I am pursuing a master&amp;rsquo;s thesis within physics and nanoelectronics.&lt;/p&gt;
+&lt;p&gt;While I am not busy working I enjoy going to &lt;a href=&#34;https://loudly.keybored.me/matsest&#34;&gt;concerts&lt;/a&gt; and listen to &lt;a href=&#34;https://www.last.fm/user/matsest&#34;&gt;music&lt;/a&gt;, &lt;a href=&#34;http://nimbusfsk.no/&#34;&gt;jumping&lt;/a&gt; out of perfectly good planes, and enjoying life &amp;ndash; all while looking out for new things to learn.&lt;/p&gt;
+&lt;p&gt;I am a supporter of &lt;a href=&#34;https://en.wikipedia.org/wiki/Free_and_open-source_software&#34;&gt;free and open-source software&lt;/a&gt;, &lt;a href=&#34;https://www.privacytools.io/&#34;&gt;digital privacy&lt;/a&gt;, and an &lt;a href=&#34;http://internetrightsandprinciples.org/site/campaign/&#34;&gt;open and democratic Internet&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;If you want to get in touch, @ me on &lt;a href=&#34;https://twitter.com/matsest&#34;&gt;Twitter&lt;/a&gt; (DMs open).&lt;/p&gt;
+&lt;p&gt;For professional or more private inquiries, contact me on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: matsest(at)mxe.no
+&lt;ul&gt;
+&lt;li&gt;For increased security, encrypt your message using my public &lt;a href=&#34;https://www.mxe.no/files/matsest.asc&#34;&gt;PGP key&lt;/a&gt; or send from a &lt;a href=&#34;https://tutanota.com&#34;&gt;Tutanota&lt;/a&gt; account for end-to-end encryption enabled by default.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Phone: +47 924 54 560
+&lt;ul&gt;
+&lt;li&gt;I recommend using an app like &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; (preferred) or &lt;a href=&#34;https://www.whatsapp.com/&#34;&gt;WhatsApp&lt;/a&gt; as they are free, more secure and reliable than SMS and calls.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Keybase chat: &lt;a href=&#34;https://keybase.io/matsest&#34;&gt;matsest&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Keybase chat offers encrypted chats between anyone without the need of an email address or phone number.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;small&gt;
+&lt;strong&gt;Disclaimer&lt;/strong&gt;: This is my personal site and content is my own. Views or opinions expressed does not represent employers, institutions or organizations I am or have been associated with, unless explicitly stated. If I redistribute work from others I will to my best effort give appropriate credit.&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;
+&lt;strong&gt;Privacy&lt;/strong&gt;: This site does not contain any designated trackers or ads, and no data is collected by me. However &amp;ndash; some external content is loaded, which may utilize methods like etag tracking or sending referrer headers back to the provider: fonts (&lt;a href=&#34;https://fonts.google.com/about&#34;&gt;fonts.google.com&lt;/a&gt;), icons (&lt;a href=&#34;https://fontawesome.com/privacy&#34;&gt;fontawesome&lt;/a&gt;) and css (&lt;a href=&#34;https://github.com/cdnjs/cdnjs&#34;&gt;cdnjs&lt;/a&gt;). I recommend using the &lt;a href=&#34;https://github.com/cowlicks/privacypossum&#34;&gt;Privacy Possum&lt;/a&gt; extension in your browser to protect yourself from unnecessary tracking.
+&lt;/small&gt;&lt;/p&gt;</description></item></channel></rss>
